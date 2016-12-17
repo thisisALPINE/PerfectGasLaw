@@ -1,0 +1,1 @@
+Thanks for watching this project! I’m a 17-years-old beginner who had an idea, and translated it into a C code. Hope you enjoy this! xx :)
