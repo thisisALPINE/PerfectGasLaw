@@ -4,7 +4,7 @@
 
 double pression, volume, numberMoles, temperature; 
 
-double constant = 8.31;
+double constant = 8.31; //if you need to use the 0.0821 one, change this line
 
 int p, v, n, t;
 
